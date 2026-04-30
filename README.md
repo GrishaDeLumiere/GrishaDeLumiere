@@ -20,7 +20,11 @@
 
 ---
 
+<div align="center">
+
 ## 🛠️ Технологический стек
+
+</div>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
@@ -38,9 +42,18 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 Избранные проекты
 
+</div>
+
+<div align="center">
+
 ### 🏰 **WardenCraft** *(Private)*
+
+</div>
+
 <p align="center"><em>Lead Developer — Тотальная конверсия Minecraft 1.7.10 в Open-World MMORPG</em></p>
 
 <p align="center">
@@ -49,15 +62,19 @@
  <img src="https://img.shields.io/badge/Launcher-Electron-47848F?style=flat-square" />
 </p>
 
-> 🔄 **Экосистема**: Web (EJS) ↔ API ↔ Java Server ↔ Game Client
->
-> ⚙️ **Оптимизация**: Глубокая переработка рендера чанков, памяти и многопоточности
->
-> 📦 **Лаунчер**: Кроссплатформенный клиент на Electron с авто-обновлением и валидацией файлов
+<p align="center"> 🔄 Экосистема: Web (EJS) ↔ API ↔ Java Server ↔ Game Client</p>
+<p align="center"> ⚙️ Оптимизация: Глубокая переработка рендера чанков, памяти и многопоточности и многое другое</p>
+<p align="center"> 📦 Лаунчер: Кроссплатформенный клиент на Electron с авто-обновлением и валидацией файлов</p>
 
 ---
 
+<div align="center">
+
 ### 🛡️ **[Golem Gateway](https://github.com/GrishaDeLumiere/golem-gateway)**
+
+</div>
+
+
 <p align="center"><em>AI Core Router — Stateless-шлюз для больших языковых моделей</em></p>
 
 <p align="center">
@@ -66,15 +83,18 @@
  <img src="https://img.shields.io/badge/Dashboard-Vanilla_JS-333333?style=flat-square" />
 </p>
 
-> 🌐 **Маршрутизация**: Прозрачный прокси между веб-интерфейсами ИИ и OpenAI API
->
-> 🎨 **Интерфейс**: Панель управления с анимированным фоном и real-time настройками
->
-> 🧠 **Memory Management**: Динамическая выгрузка провайдеров из ОЗУ без перезапуска
+<p align="center">🌐 Маршрутизация: Прозрачный прокси между веб-интерфейсами ИИ и OpenAI API</p>
+<p align="center">🎨 Интерфейс: Панель управления с анимированным фоном и real-time настройками</p>
+<p align="center">🧠 Memory Management: Динамическая выгрузка провайдеров из ОЗУ без перезапуска</p>
 
 ---
 
+<div align="center">
+
 ### 🌻 **[PVZ PLUS](https://github.com/GrishaDeLumiere/PVZGame)** *(Archived)*
+
+</div>
+
 <p align="center"><em>Java Game Dev — Клон Plants vs. Zombies на LWJGL 3.3.2</em></p>
 
 <p align="center">
@@ -83,17 +103,18 @@
  <img src="https://img.shields.io/badge/Audio-OpenAL-0077B5?style=flat-square" />
 </p>
 
-> 🎨 **Render**: Кастомный 2D-рендер на LWJGL с поддержкой GLSL-шейдеров
->
-> 🔊 **Audio**: Пространственный звук через OpenAL (позиционирование источников)
->
-> 🖥️ **UI**: Полностью нативная система интерфейсов без сторонних библиотек
->
-> ⚙️ **Toolchain**: Java 8 • Gradle Shadow JAR • UTF-8 encoding
+<p align="center">🎨 Render: Кастомный 2D-рендер на LWJGL с поддержкой GLSL-шейдеров</p>
+<p align="center">🔊 Audio: Пространственный звук через OpenAL (позиционирование источников)</p>
+<p align="center">🖥️ UI: Полностью нативная система интерфейсов без сторонних библиотек</p>
+<p align="center">⚙️ Toolchain: Java 8 • Gradle Shadow JAR • UTF-8 encoding</p>
 
 ---
 
+<div align="center">
+
 ## 📊 Статистика
+
+</div>
 
 <!-- Верхняя строка: Языки (компактный вид) -->
 <p align="center">
