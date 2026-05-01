@@ -116,14 +116,8 @@
 
 </div>
 
-<!-- Верхняя строка: Языки (компактный вид) -->
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishaDeLumiere&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=320" alt="Топ языки" />
-</p>
-
-<!-- Нижняя строка: Общая статистика -->
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=GrishaDeLumiere&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Общая статистика" />
 </p>
 
 ---
