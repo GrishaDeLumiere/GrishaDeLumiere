@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=615CED¢er=true&vCenter=true&width=550&lines=Привет%2C+я+Гриша;Full-Stack+%26+Game+Developer;Архитектура+%3E+Хак" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=615CED&center=true&vCenter=true&width=550&lines=Привет%2C+я+Гриша;Full-Stack+%26+Game+Developer;Архитектура+%3E+Хак" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,13 +8,13 @@
 
 <p align="center">
  <a href="https://discord.com/users/__grisha__">
- <img src="https://img.shields.io/badge/Discord-__grisha__-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord" />
+  <img src="https://img.shields.io/badge/Discord-__grisha__-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord" />
  </a>
  <a href="https://t.me/GrishaDeLumiere">
- <img src="https://img.shields.io/badge/Telegram-@GrishaDeLumiere-2CA5E0?logo=telegram&logoColor=white&style=flat-square" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram-@GrishaDeLumiere-2CA5E0?logo=telegram&logoColor=white&style=flat-square" alt="Telegram" />
  </a>
  <a href="mailto:contact.wardencraft@gmail.com">
- <img src="https://img.shields.io/badge/Email-contact.wardencraft@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-contact.wardencraft@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
  </a>
 </p>
 
@@ -74,7 +74,6 @@
 
 </div>
 
-
 <p align="center"><em>AI Core Router — Stateless-шлюз для больших языковых моделей</em></p>
 
 <p align="center">
@@ -112,15 +111,28 @@
 
 <div align="center">
 
-## 📊 Статистика
+## 📊 GitHub Stats
 
 </div>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishaDeLumiere&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=320" alt="Топ языки" />
-</p>
+<div align="center">
+  <a href="https://github.com/GrishaDeLumiere">
+    <img align="center" width="80%" src="https://github-readme-stats-fast.vercel.app/api?username=GrishaDeLumiere&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/GrishaDeLumiere">
+    <img align="center" width="80%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GrishaDeLumiere&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
+  </a>
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/GrishaDeLumiere">
+    <img align="center" width="80%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=GrishaDeLumiere&theme=dracula&hide_border=true" alt="Streak" />
+  </a>
+</div>
 
 ---
 
 > 📫 *Открыт к интересным коллаборациям в области GameDev и AI-инфраструктуры.*
-
