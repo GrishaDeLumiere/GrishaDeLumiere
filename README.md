@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- <a href="https://discord.com/users/__grisha__">
+ <a href="https://discord.com/users/_grisha_">
   <img src="https://img.shields.io/badge/Discord-__grisha__-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord" />
  </a>
  <a href="https://t.me/GrishaDeLumiere">
