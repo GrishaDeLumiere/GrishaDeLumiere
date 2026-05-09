@@ -22,23 +22,28 @@
 
 <div align="center">
 
+
+<div align="center">
+
 ## 🛠️ Технологический стек
+
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=1E1E1E&style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/LWJGL-3.3.2-1E90FF?logo=opengl&logoColor=white&style=flat-square" alt="LWJGL" />
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat-square" alt="Electron" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=flat-square" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=flat-square" alt="Puppeteer" />
+  <img src="https://img.shields.io/badge/OAuth2-4285F4?logo=google&logoColor=white&style=flat-square" alt="OAuth2" />
 
 </div>
 
-<p align="center">
- <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
- <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express" />
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=1E1E1E&style=flat-square" alt="JavaScript" />
- <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
- <img src="https://img.shields.io/badge/LWJGL-3.3.2-1E90FF?logo=opengl&logoColor=white&style=flat-square" alt="LWJGL" />
- <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" />
- <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
- <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat-square" alt="Electron" />
- <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=flat-square" alt="OpenGL" />
- <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=flat-square" alt="Puppeteer" />
- <img src="https://img.shields.io/badge/OAuth2-4285F4?logo=google&logoColor=white&style=flat-square" alt="OAuth2" />
-</p>
+<br/>
 
 ---
 
