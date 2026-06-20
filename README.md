@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=1E1E1E&style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/LWJGL-3.3.2-1E90FF?logo=opengl&logoColor=white&style=flat-square" alt="LWJGL" />
+  <img src="https://img.shields.io/badge/LWJGL-3.4.1-1E90FF?logo=opengl&logoColor=white&style=flat-square" alt="LWJGL" />
   <br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
