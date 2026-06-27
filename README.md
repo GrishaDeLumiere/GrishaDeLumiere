@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=615CED&center=true&vCenter=true&width=550&lines=Привет%2C+я+Гриша;Full-Stack+%26+Game+Developer;Архитектура+%3E+Хак" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=615CED&center=true&vCenter=true&width=550&lines=Привет%2C+я+Гриша;Game+Engine+%26+Systems+Developer;Vulkan+%3E+OpenGL;GPU-Driven+%3E+Legacy" alt="Typing SVG" />
 </p>
 
 <p align="center">
- <em>Создаю производительные экосистемы, где чистая архитектура встречается с глубоким пониманием «подкапотной» механики.</em>
+ <em>Пишу высокопроизводительные игровые движки и серверную инфраструктуру. Фанат низкоуровневой графики и архитектуры без компромиссов.</em>
 </p>
 
 <p align="center">
@@ -22,22 +22,24 @@
 
 <div align="center">
 
-
-<div align="center">
-
 ## 🛠️ Технологический стек
 
   <br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/Vulkan-1.3-AC162C?logo=vulkan&logoColor=white&style=flat-square" alt="Vulkan" />
+  <img src="https://img.shields.io/badge/SPIR--V-FF6B35?logo=khronos&logoColor=white&style=flat-square" alt="SPIR-V" />
+  <img src="https://img.shields.io/badge/LWJGL-3.4.1-1E90FF?logo=lwjgl&logoColor=white&style=flat-square" alt="LWJGL" />
+  <img src="https://img.shields.io/badge/OpenGL-4.30-5586A4?logo=opengl&logoColor=white&style=flat-square" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/GLSL-4.60-5586A4?logo=opengl&logoColor=white&style=flat-square" alt="GLSL" />
+  <br/>
+  <img src="https://img.shields.io/badge/Netty-4.x-00BFFF?logo=netty&logoColor=white&style=flat-square" alt="Netty" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express" />
+  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat-square" alt="Electron" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=1E1E1E&style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/LWJGL-3.4.1-1E90FF?logo=opengl&logoColor=white&style=flat-square" alt="LWJGL" />
   <br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat-square" alt="Electron" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white&style=flat-square" alt="OpenGL" />
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=flat-square" alt="Puppeteer" />
   <img src="https://img.shields.io/badge/OAuth2-4285F4?logo=google&logoColor=white&style=flat-square" alt="OAuth2" />
 
@@ -59,17 +61,19 @@
 
 </div>
 
-<p align="center"><em>Lead Developer — Тотальная конверсия Minecraft 1.7.10 в Open-World MMORPG</em></p>
+<p align="center"><em>Lead Developer — Самописный MMORPG-движок на Vulkan 1.3</em></p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Architecture-Microservices-615CED?style=flat-square" />
- <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=flat-square" />
+ <img src="https://img.shields.io/badge/Graphics-Vulkan_1.3-AC162C?style=flat-square" />
+ <img src="https://img.shields.io/badge/Shaders-SPIR--V-FF6B35?style=flat-square" />
+ <img src="https://img.shields.io/badge/Server-Netty-00BFFF?style=flat-square" />
  <img src="https://img.shields.io/badge/Launcher-Electron-47848F?style=flat-square" />
 </p>
 
-<p align="center"> 🔄 Экосистема: Web (EJS) ↔ API ↔ Java Server ↔ Game Client</p>
-<p align="center"> ⚙️ Оптимизация: Глубокая переработка рендера чанков, памяти и многопоточности и многое другое</p>
-<p align="center"> 📦 Лаунчер: Кроссплатформенный клиент на Electron с авто-обновлением и валидацией файлов</p>
+<p align="center">🔥 GPU-Driven Rendering: Compute Culling + Indirect Draw + Мега-VBO Арена</p>
+<p align="center">⚡ Производительность: 3000 FPS (мин.) / 1000 FPS (16 чанков)</p>
+<p align="center">🌐 Экосистема: Лаунчер (Electron) ↔ API (Node.js) ↔ Игровой сервер (Netty) ↔ Клиент (Vulkan)</p>
+<p align="center">🧮 Матричный инвентарь, STB-шрифты, каскадные тени, волюметрическое небо, линковка предметов</p>
 
 ---
 
@@ -140,4 +144,4 @@
 
 ---
 
-> 📫 *Открыт к интересным коллаборациям в области GameDev и AI-инфраструктуры.*
+> 📫 *Открыт к интересным коллаборациям в области GameDev (Vulkan/LWJGL) и высоконагруженной серверной инфраструктуры.*
