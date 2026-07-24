@@ -34,14 +34,16 @@
   <br/>
   <img src="https://img.shields.io/badge/Netty-4.x-00BFFF?logo=netty&logoColor=white&style=flat-square" alt="Netty" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white&style=flat-square" alt="Fastify" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express" />
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat-square" alt="Electron" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=1E1E1E&style=flat-square" alt="JavaScript" />
   <br/>
+  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?logo=solid&logoColor=white&style=flat-square" alt="SolidJS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square" alt="Vite" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=1E1E1E&style=flat-square" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" />
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white&style=flat-square" alt="Puppeteer" />
-  <img src="https://img.shields.io/badge/OAuth2-4285F4?logo=google&logoColor=white&style=flat-square" alt="OAuth2" />
 
 </div>
 
@@ -54,6 +56,27 @@
 ## 🚀 Избранные проекты
 
 </div>
+
+<div align="center">
+
+### 🌌 **[Cobalt Tavern](https://github.com/GrishaDeLumiere/Cobalt-Tavern)**
+
+</div>
+
+<p align="center"><em>Lead Developer — Ультимативный локальный интерфейс для текстовых нейросетей (LLM)</em></p>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/Frontend-SolidJS-2C4F7C?style=flat-square" />
+ <img src="https://img.shields.io/badge/Backend-Fastify-000000?style=flat-square" />
+ <img src="https://img.shields.io/badge/Architecture-Monolithic_SPA-615CED?style=flat-square" />
+</p>
+
+<p align="center">🎨 Интерфейс: Ультра-быстрый рендеринг на SolidJS</p>
+<p align="center">🧠 Lore Engine: Интеллектуальный лексический парсер контекста с логическими операторами</p>
+<p align="center">⚡ Стриминг: Нативная обработка тегов <code>&lt;think&gt;</code> с анимациями в реальном времени</p>
+<p align="center">⚙️ Инфраструктура: Автоматизированный пайплайн сборки с монолитным сервером раздачи</p>
+
+---
 
 <div align="center">
 
