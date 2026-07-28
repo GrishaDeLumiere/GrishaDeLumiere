@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Vulkan-1.3-AC162C?logo=vulkan&logoColor=white&style=flat-square" alt="Vulkan" />
   <img src="https://img.shields.io/badge/SPIR--V-FF6B35?logo=khronos&logoColor=white&style=flat-square" alt="SPIR-V" />
   <img src="https://img.shields.io/badge/LWJGL-3.4.1-1E90FF?logo=lwjgl&logoColor=white&style=flat-square" alt="LWJGL" />
-  <img src="https://img.shields.io/badge/OpenGL-4.30-5586A4?logo=opengl&logoColor=white&style=flat-square" alt="OpenGL" />
   <img src="https://img.shields.io/badge/GLSL-4.60-5586A4?logo=opengl&logoColor=white&style=flat-square" alt="GLSL" />
   <br/>
   <img src="https://img.shields.io/badge/Netty-4.x-00BFFF?logo=netty&logoColor=white&style=flat-square" alt="Netty" />
