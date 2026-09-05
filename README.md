@@ -25,6 +25,8 @@
 ## 🛠️ Технологический стек
 
   <br/>
+  <img src="https://img.shields.io/badge/Godot-4.7.2-478CBF?logo=godotengine&logoColor=white&style=flat-square" alt="Godot 4.7.2" />
+  <img src="https://img.shields.io/badge/GDScript-2.0-478CBF?logo=godotengine&logoColor=white&style=flat-square" alt="GDScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java" />
   <img src="https://img.shields.io/badge/Vulkan-1.3-AC162C?logo=vulkan&logoColor=white&style=flat-square" alt="Vulkan" />
   <img src="https://img.shields.io/badge/SPIR--V-FF6B35?logo=khronos&logoColor=white&style=flat-square" alt="SPIR-V" />
@@ -166,4 +168,4 @@
 
 ---
 
-> 📫 *Открыт к интересным коллаборациям в области GameDev (Vulkan/LWJGL) и высоконагруженной серверной инфраструктуры.*
+> 📫 *Открыт к интересным коллаборациям в области GameDev (Godot / Vulkan / LWJGL) и высоконагруженной серверной инфраструктуры.*
